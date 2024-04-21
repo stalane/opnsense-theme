@@ -1,5 +1,5 @@
-# plum
-Plum theme for OPNsense
+# blue
+Blue theme for OPNsense
 
 Credit to remic-webdesign@chello.at because I just took the tukan theme and changed some hex codes.
 
